@@ -1,0 +1,3 @@
+FashionMNIST/
+venv/
+.pytest_cache/
